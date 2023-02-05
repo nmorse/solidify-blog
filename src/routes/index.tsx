@@ -4,15 +4,14 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
-      <h1>Hello world!</h1>
-      <Counter />
+      <Title>Techable Blog</Title>
+      <h1>Ability in Tech</h1>
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
+Or at least minor wins in becoming more able to make headway and have fun with some hardware and software projects.
+Here are some blog posts to sample:
+      </p>
+      <p>
+        time for a new combo of old tech
       </p>
     </main>
   );
