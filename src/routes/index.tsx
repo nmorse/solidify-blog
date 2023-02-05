@@ -1,5 +1,4 @@
-import { Title } from "solid-start";
-import { A } from "solid-start";
+import { Title, A } from "solid-start";
 
 export default function Home() {
   return (
@@ -18,7 +17,7 @@ export default function Home() {
       <A href="/project/blinky-state">time for a new combo of old tech</A>
       </p>
       <p>
-      WHat only one!
+      WHat only one! (at a time), (quality over quantity :) )
       </p>
     </main>
   );
