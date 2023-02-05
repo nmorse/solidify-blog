@@ -14,7 +14,7 @@ export default function Home() {
         Read, do, have Fun, change something, write, Repeat:
       </p>
       <p>
-      <A href="/project/blinky-state">time for a new combo of old tech</A>
+      <A href="/project/blinky-state">time for a reunion of new and old tech</A>
       </p>
       <p>
       WHat only one! (at a time), (quality over quantity :) )
