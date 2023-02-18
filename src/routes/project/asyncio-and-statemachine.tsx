@@ -1,6 +1,6 @@
 import { Title } from "solid-start";
 
-export default function Home() {
+export default function Mixing() {
   return (
     <main>
       <Title>Mixing Asyncio and Statemachines</Title>
