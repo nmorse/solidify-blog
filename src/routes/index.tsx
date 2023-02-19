@@ -14,7 +14,7 @@ export default function Home() {
         Read, do, have Fun, change something, write, Repeat:
       </p>
       <p>
-      <A href="/project/blinky-state">basic blinking, but with a state machine</A>
+      <A href="/projects/blinky-state">basic blinking, but with a state machine</A>
       </p>
       <p>
       WHat only one! (at a time), (quality over quantity :) )
